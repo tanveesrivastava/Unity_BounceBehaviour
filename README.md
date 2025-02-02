@@ -13,8 +13,8 @@ This repository contains the Unity Lab project demonstrating different bounce be
 ## Access the Files
 Click the links below to view the corresponding files:
 
-- 📄 **[Report PDF](https://github.com/tanveesrivastava/Unity_BounceBehaviour/blob/main/Experiment%200.pdf))**
-- 🎥 **[Recorded Video](./path-to-your-video-file.mp4)**
+- 📄 **[Report PDF](https://github.com/tanveesrivastava/Unity_BounceBehaviour/blob/main/Experiment%200.pdf)**
+- 🎥 **[Recorded Video]([./path-to-your-video-file.mp4](https://github.com/tanveesrivastava/Unity_BounceBehaviour/blob/main/Experiment0_Video.mkv))**
 
 ## Features
 - Configured Unity scene with primitive objects.
