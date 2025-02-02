@@ -2,7 +2,6 @@
 Unity scene with primitive objects (Cube, Sphere, and Cylinder) and  assign distinct bounce behaviours to each object. Additional features, such as prefabs and  camera configuration, are also implemented as part of this project. 
 
 
-
 # Unity Bounce Behavior Lab
 
 ## Overview
@@ -24,16 +23,3 @@ Click the links below to view the corresponding files:
 - Prefabs created for future use.
 - Additional assets integrated from the Unity Store.
 
-## Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo-name.git
-   ```
-2. Open the Unity project and run the scene.
-
-## License
-This project is for educational purposes only. Feel free to modify and experiment with the configurations.
-
----
-
-🚀 Happy Coding!
